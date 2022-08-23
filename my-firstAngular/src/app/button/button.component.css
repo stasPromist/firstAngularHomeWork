@@ -1,0 +1,15 @@
+button{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 30px;
+    margin-top: 400px;
+    border-radius: 25px;
+    border-color: brown;
+    background-color: aquamarine;
+    
+}
+button:hover {
+    background-color: chartreuse;
+    
+}
